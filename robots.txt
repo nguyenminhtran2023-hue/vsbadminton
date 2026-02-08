@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vsbadminton.com/sitemap.xml
+Sitemap: Sitemap: https://nguyenminhtran2023-hue.github.io/vsbadminton/sitemap.xml
